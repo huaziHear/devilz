@@ -1,0 +1,1 @@
+global.__res = global.__res ? 21 : 10086;

@@ -1,0 +1,2 @@
+
+declare module 'scope-analyzer';

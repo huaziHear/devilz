@@ -1,0 +1,1 @@
+global.__res =  typeof p === 'number' ? p === 1 ? p ? 10086 : 10010 : 10010 : 10000;
